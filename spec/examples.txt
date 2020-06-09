@@ -1,0 +1,4 @@
+example_id                                 | status | run_time        |
+------------------------------------------ | ------ | --------------- |
+./spec/requests/cnab_import_spec.rb[1:1:1] | passed | 0.02932 seconds |
+./spec/requests/cnab_import_spec.rb[2:1:1] | passed | 0.02235 seconds |
